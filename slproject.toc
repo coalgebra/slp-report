@@ -1,0 +1,17 @@
+\contentsline {section}{\numberline {1}背景介绍}{2}
+\contentsline {section}{\numberline {2}设计说明}{2}
+\contentsline {subsection}{\numberline {2.1}设计vga}{2}
+\contentsline {subsection}{\numberline {2.2}设计数码管}{2}
+\contentsline {subsection}{\numberline {2.3}设计ps2键盘}{2}
+\contentsline {section}{\numberline {3}模块结构}{2}
+\contentsline {subsection}{\numberline {3.1}图}{2}
+\contentsline {subsection}{\numberline {3.2}各种模块}{2}
+\contentsline {subsection}{\numberline {3.3}各种模块}{2}
+\contentsline {section}{\numberline {4}程序流程}{2}
+\contentsline {subsection}{\numberline {4.1}程序跑}{2}
+\contentsline {section}{\numberline {5}调试过程分析}{2}
+\contentsline {section}{\numberline {6}程序功能测试}{2}
+\contentsline {section}{\numberline {7}程序代码分析}{2}
+\contentsline {section}{\numberline {8}组内分工}{2}
+\contentsline {subsection}{\numberline {8.1}贡献比例}{2}
+\contentsline {section}{\numberline {9}参考资料}{2}
